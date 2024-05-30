@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">4CPraktikum1</string>
+
+    <string-array name="warna">
+        <item>Pilih</item>
+        <item>Merah</item>
+        <item>Hijau</item>
+        <item>Biru</item>
+    </string-array>
+</resources>
